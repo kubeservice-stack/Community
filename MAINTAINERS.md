@@ -7,6 +7,6 @@ https://cloud-native.slack.com in #kubeservice
 Currently, the maintainers of kubeservicestack are:
 
 - dongjiang (github: @dongjiang1989, slack: dongjiang20101989)
-- zhouzhengling (github: @zhouzhengling)
+- zhouzhenling (github: @zhouzhenling)
 - yangyang (github: @yangyang, slack: yangyang004)
 - yangyuanguang (github: @imlense, slack: lenseyang)
