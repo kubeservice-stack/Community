@@ -1,0 +1,6 @@
+reviewers:
+  - sig-codec-leads
+approvers:
+  - sig-codec-leads
+labels:
+  - sig/codec

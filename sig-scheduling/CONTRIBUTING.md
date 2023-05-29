@@ -11,9 +11,9 @@ helping to answer end-user's questions, attending meetings. All kinds of contrib
 
 ## Before you begin
 
-We strongly recommend you to check out the [Kubernetes Contributor Guide](https://github.com/kubeservice-stack/Community/blob/main/CONTRIBUTING.md) first.
+We strongly recommend you to check out the [kubeservice Contributor Guide](https://github.com/kubeservice-stack/Community/blob/main/CONTRIBUTING.md) first.
 
-## Getting Started Before
+## Getting Started
 
 * If you're a newcomer and have no idea where to start, we have a non-stale pool of issues that are
 available for you:
