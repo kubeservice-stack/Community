@@ -2,20 +2,20 @@
 
 SIG Codec is responsible for the components for structure data encode and decode.
 
-The [charter](charter.md) defines the scope and governance of the Scheduling Special Interest Group.
+The [charter](charter.md) defines the scope and governance of the Codec Special Interest Group.
 
 ## Leadership
 
 ### Chairs
 The Chairs of the SIG run operations and processes governing the SIG.
 
-* Dong Jiang (**[@dongjiang1989](https://github.com/dongjiang1989)**), Huawei
+* Dong Jiang (**[@dongjiang1989](https://github.com/dongjiang1989)**), Chinamobile
 
 ### Technical Leads
 The Technical Leads of the SIG establish new subprojects, decommission existing
 subprojects, and resolve cross-subproject technical issues and decisions.
 
-* Dong Jiang (**[@dongjiang1989](https://github.com/dongjiang1989)**), Huawei
+* Dong Jiang (**[@dongjiang1989](https://github.com/dongjiang1989)**), Chinamobile
 * Zhou Zhenling (**[@zhouzhenling](https://github.com/zhouzhenling)**), Meituan
 
 ## Contact
