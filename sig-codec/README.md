@@ -82,4 +82,7 @@ support `java`, `golang`, `rust`, `c/c++`
 
 ## Subprojects
 
-ksPack
+The following [subprojects][subproject-definition] are owned by sig-scheduling:
+### kspack-go
+- **Owners:**
+  - [kubeservice-stack/kspack-go](https://github.com/kubeservice-stack/kspack-go)
