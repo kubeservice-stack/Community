@@ -1,0 +1,6 @@
+reviewers:
+  - sig-observability-maintainers
+approvers:
+  - sig-observability-maintainers
+labels:
+  - sig/observability
