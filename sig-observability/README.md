@@ -1,4 +1,4 @@
-# Codec Special Interest Group
+# Observability Special Interest Group
 
 SIG Observability is responsible for the components that make Cluster Operation and Maintenance decisions.
 
